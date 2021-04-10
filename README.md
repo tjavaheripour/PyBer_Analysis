@@ -19,6 +19,6 @@ As shown in the multiple line graph, urban cities have the highest fares and rur
 ## Summary
 Based on the result from both summary dataframe and multiple line plots of weekly total fare by city type, I would recommend to the CEO the followings:
 
-1.We can obviously see that the ratio of total rides to total drivers is not proportionate across three city types.  This rate is 1.6, 1.3 and 0.7 for rural, suburban and urban areas respectively which means there is more need for drivers in less populated areas.  My recommendation is to stop hiring drivers in cities and to acquire them in rural side instead. 
-2.The payment of drivers in rural cities is more than payment of who works in cities by high populations so I suggest that company offer bonus points or incentive programs to encourage drivers to work more in rural and suburban areas.
+1. We can obviously see that the ratio of total rides to total drivers is not proportionate across three city types.  This rate is 1.6, 1.3 and 0.7 for rural, suburban and urban areas respectively which means there is more need for drivers in less populated areas.  My recommendation is to stop hiring drivers in cities and to acquire them in rural side instead. 
+2. As we shown above the ride fares in rural areas are higher hence company should direct its marketing programs towards incentivizing drivers to work in those areas.
 3.
