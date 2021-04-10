@@ -21,4 +21,4 @@ Based on the result from both summary dataframe and multiple line plots of weekl
 
 1. We can obviously see that the ratio of total rides to total drivers is not proportionate across three city types.  This rate is 1.6, 1.3 and 0.7 for rural, suburban and urban areas respectively which means there is more need for drivers in less populated areas.  My recommendation is to stop hiring drivers in cities and to acquire them in rural side instead. 
 2. As we shown above the ride fares in rural areas are higher hence company should direct its marketing programs towards incentivizing drivers to work in those areas.
-3.
+3. Company should focus on absorbing more customers on the rural and suburban areas as the demand seem to be higher.
